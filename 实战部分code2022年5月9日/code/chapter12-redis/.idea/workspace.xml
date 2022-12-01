@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38830329-6544-400b-a0b3-fd9cb7fda53d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="C:\Users\gopher\SDK\Install\go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="26J2KB0n2mvFySVHviuPyYf6yZW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build GoBook/code/chapter12-redis" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="chapter12-redis" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-mod=vendor" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="GoBook/code/chapter12-redis" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1647135140656">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.2752.1112@0.0.1536.824" timestamp="1647135140656" />
+    <state x="495" y="80" key="#go_build_pygame/GoBook/code/chapter12-redis" timestamp="1647127373477">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="495" y="80" key="#go_build_pygame/GoBook/code/chapter12-redis/0.0.1536.824/1920.0.2752.1112@0.0.1536.824" timestamp="1647127373477" />
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom" timestamp="1647139257996">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.2752.1112@0.0.1536.824" timestamp="1647139257996" />
+    <state width="1493" height="220" key="GridCell.Tab.0.center" timestamp="1647139257996">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.2752.1112@0.0.1536.824" timestamp="1647139257996" />
+    <state width="1493" height="220" key="GridCell.Tab.0.left" timestamp="1647139257996">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.2752.1112@0.0.1536.824" timestamp="1647139257996" />
+    <state width="1493" height="220" key="GridCell.Tab.0.right" timestamp="1647139257996">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.2752.1112@0.0.1536.824" timestamp="1647139257996" />
+    <state x="272" y="57" key="SettingsEditor" timestamp="1647135129890">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="57" key="SettingsEditor/0.0.1536.824/1920.0.2752.1112@0.0.1536.824" timestamp="1647135129890" />
+  </component>
+</project>
